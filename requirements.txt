@@ -1,0 +1,7 @@
+firebase-admin
+customtkinter
+opencv-contrib-python
+mediapipe
+cryptography
+Pillow
+numpy

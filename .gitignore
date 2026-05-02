@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/
+dataset/
+firebase-key.json
+secret.key
+trainer.yml
+.zencoder/
+.zenflow/
+.vscode/
+.idea/
+*.log
